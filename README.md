@@ -1,2 +1,2 @@
 # images
-Images used in discord-extend
+Images used in discord-oversimplified
